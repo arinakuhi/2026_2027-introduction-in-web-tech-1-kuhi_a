@@ -523,3 +523,8 @@ GitHub Actions workflow успешно завершился, а собранны
 Таким образом, был реализован работающий CI/CD-процесс, позволяющий автоматически собирать и публиковать Docker-образ после изменения исходного кода.
 
 Цель лабораторной работы достигнута.
+## Репозиторий проекта
+
+Исходный код приложения, Dockerfile и GitHub Actions workflow размещены в отдельном репозитории:
+
+[arinakuhi/2026_2027-introduction-in-web-tech-2-kuhi_a](https://github.com/arinakuhi/2026_2027-introduction-in-web-tech-2-kuhi_a)
